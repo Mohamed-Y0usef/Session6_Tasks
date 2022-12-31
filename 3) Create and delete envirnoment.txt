@@ -1,0 +1,8 @@
+create env:
+conda create -n/--name envname
+e.x --> conda create -n/--name ML
+
+
+delete env:
+conda env remove -n envname
+e.x --> conda env remove -n ML

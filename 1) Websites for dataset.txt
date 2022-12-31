@@ -1,0 +1,13 @@
+1) Kaggle
+2) Google dataset
+3) Huggingface datasets
+4) Data.world datasets
+5) Data.Gov
+6) Datahub.io
+7) UCI Machine Learning Repository
+8) Earth Data
+9) CERN Open Data Portal
+10) Global Health Observatory Data Repository
+11) BFI film industry statistics
+12) NYC Taxi Trip Data
+13) FBI Crime Data Explorer

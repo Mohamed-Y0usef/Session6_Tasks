@@ -1,0 +1,4 @@
+1) run the Command Prompt(Terminal) as administrator
+2) copy, paste and run this 2 commands in the Command Prompt:
+	--> python -m pip install git+https://github.com/Zeecka/pytube@fix_1060
+	--> pip install pytube --upgrade
